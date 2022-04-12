@@ -1,0 +1,16 @@
+{
+    "name": "jmartz-gmbh/anton",
+    "description": "Second Version of Anton",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Martz",
+            "email": "github@jmartz.de"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1",
+        "ext-json": "*"
+    }
+}
